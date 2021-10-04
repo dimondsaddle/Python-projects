@@ -1,0 +1,22 @@
+{
+  "punch":{
+          "dmg_value":30 ,
+          "description":"An attack with a fist.",
+          "deviation":10
+  }
+  ,"shove":{
+          "dmg_value":60,
+          "description":"pushes the opponent over.",
+          "deviation":30
+  }
+  ,"knife":{
+          "dmg_value":90,
+          "description":"The target is stabbed.",
+          "deviation":40
+  }
+  ,"painkillers":{
+          "dmg_value":-50,
+          "description":"It helps it ignore the pain.",
+          "deviation":0
+  }
+}

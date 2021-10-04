@@ -1,0 +1,22 @@
+{
+  "Eye gouge":{
+          "dmg_value":30 ,
+          "description":"scoop the eyes out",
+          "deviation":10
+  }
+  ,"Elbow strike":{
+          "dmg_value":60,
+          "description":"strikes beneath the chin.",
+          "deviation":30
+  }
+  ,"Nutcracker":{
+          "dmg_value":90,
+          "description":"The target is choked.",
+          "deviation":40
+  }
+  ,"sleep":{
+          "dmg_value":-50,
+          "description":"It replenishes the players energy",
+          "deviation":0
+  }
+}

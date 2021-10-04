@@ -1,0 +1,22 @@
+{
+  "smack":{
+          "dmg_value":30 ,
+          "description":"An attack with a fist",
+          "deviation":10
+  }
+  ,"kick":{
+          "dmg_value":60,
+          "description":"Slams the foe with a foot.",
+          "deviation":30
+  }
+  ,"Gun":{
+          "dmg_value":90,
+          "description":"The target is shot with a bullet.",
+          "deviation":40
+  }
+  ,"medicine":{
+          "dmg_value":-50,
+          "description":"It applies some medicine to its wounds",
+          "deviation":0
+  }
+}

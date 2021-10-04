@@ -1,0 +1,22 @@
+{
+  "thunderbolt":{
+          "dmg_value":80 ,
+          "description":"A strong electrical attack",
+          "deviation":10
+  }
+  ,"slam":{
+          "dmg_value":70,
+          "description":"Slams the foe with a tail, vine, etc.",
+          "deviation":30
+  }
+  ,"Iron Tail":{
+          "dmg_value":70,
+          "description":"The target is slammed with a steel-hard tail.",
+          "deviation":20
+  }
+  ,"rest":{
+          "dmg_value":-100,
+          "description":"It takes a short rest and recovers hp",
+          "deviation":0
+  }
+}
